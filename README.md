@@ -1,5 +1,5 @@
 # codeforces
-Competitive programming solutions from www.codeforces.com.
+Competitive programming solutions to problems from www.codeforces.com.
 
 
 Username: flyinrabbitz
